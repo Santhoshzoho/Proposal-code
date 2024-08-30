@@ -95,7 +95,9 @@ body {
 }
 .center{
     display:flex;
+    flex-direction:column;
 }
 .cen{
     justify-content:center;
+    opacity: 0.2;
 }
