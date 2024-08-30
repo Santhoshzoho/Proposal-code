@@ -21,3 +21,11 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+.center{
+    display:block;
+
+}
+p{
+  opacity: 0.3;
+}
