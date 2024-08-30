@@ -94,10 +94,9 @@ body {
     }
 }
 .center{
-    display:flex;
-    flex-direction:column;
+    display:block;
+
 }
 p{
- flex-direction: column;
- opacity: 0.2;
+  opacity: 0.3;
 }
