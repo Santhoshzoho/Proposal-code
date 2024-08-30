@@ -98,6 +98,6 @@ body {
     flex-direction:column;
 }
 .cen{
-    justify-content:center;
-    opacity: 0.2;
+ flex-direction: column;
+ opacity: 0.2;
 }
