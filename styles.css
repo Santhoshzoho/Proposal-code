@@ -97,7 +97,7 @@ body {
     display:flex;
     flex-direction:column;
 }
-.cen{
+p{
  flex-direction: column;
  opacity: 0.2;
 }
